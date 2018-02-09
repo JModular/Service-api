@@ -8,7 +8,7 @@ import com.service.api.utils.DateUtils;
 
 
 
-
+//http://192.168.253.200:8080/Services-api/first
 public class FirstServlet extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
